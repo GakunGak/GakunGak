@@ -1,16 +1,19 @@
-## Hi there 👋
+# Dragan Jovanov
 
-<!--
-**GakunGak/GakunGak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder of Synthetica** · Ship photographer · Montenegro
 
-Here are some ideas to get you started:
+I build products with AI agents, and I ship them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Synthetica
+Gothic printables and digital downloads, designed with AI assistance and finished by hand.
+Tagline: *Knowledge, forged for print.*
+Website: https://trysynthetica.com · Instagram: https://www.instagram.com/trysynthetica
+
+## Selected work
+- [MLC 2006 Tracker Professional](https://github.com/GakunGak/NCLH-MLCTrackerPro), NCLH compliant timesheet tracker for maritime crews
+- [Intelligence Dashboard](https://github.com/GakunGak/intelligence-dashboard), European security and geopolitical risk monitor
+- [DGJ-JSATR](https://github.com/GakunGak/DGJ-JSATR), job searching, application, tracking and reporting system
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/djgakungak
+- Email: contact@trysynthetica.com
