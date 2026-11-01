@@ -27,14 +27,6 @@ Tagline: *Knowledge, forged for print.*
 - 🌍 [Intelligence Dashboard](https://github.com/GakunGak/intelligence-dashboard), European security and geopolitical risk monitor
 - 🎯 [DGJ-JSATR](https://github.com/GakunGak/DGJ-JSATR), job searching, application, tracking and reporting system
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GakunGak&show_icons=true&theme=github_dark&hide_border=true&title_color=C9A84C&icon_color=C9A84C" alt="Dragan's GitHub stats" />
-
-</div>
-
 ## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/djgakungak
